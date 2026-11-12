@@ -23,4 +23,4 @@ I test what I build, document its limits in the README, and keep secrets out of 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/) (add your link here)
+[LinkedIn](https://www.linkedin.com/in/vern-taganna-8b4971374/)
