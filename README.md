@@ -1,6 +1,6 @@
-# Hi, I'm Vern Taganna
+# Hi, I'm Vern Taganna!
 
-Cybersecurity student who builds and runs her own home server. I like making small, practical tools and writing down honestly what works and what doesn't.
+Cybersecurity student who builds and runs their own home server. I like making small, practical tools and writing down honestly what works and what doesn't. 
 
 ## What I'm working on
 
