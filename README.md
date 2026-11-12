@@ -1,6 +1,6 @@
 # Hi, I'm Vern Taganna!
 
-Cybersecurity student who builds and runs their own home server. I like making small, practical tools and writing down honestly what works and what doesn't. 
+Artist and cybersecurity student attending Coastline college, who builds and runs their own home server. I like making small, practical tools and writing down honestly what works and what doesn't. 
 
 ## What I'm working on
 
@@ -16,10 +16,6 @@ Cybersecurity student who builds and runs their own home server. I like making s
 - **Backups and data safety:** database dumps, safe SQLite copies, restore planning
 - **Scripting and automation:** Python, Bash, PowerShell, VBA
 - **Security practice:** National Cyber League competitor, CCDC invitational participant, incident response write-ups (log-based, evidence-only language)
-
-## How I work
-
-I test what I build, document its limits in the README, and keep secrets out of every repo.
 
 ## Contact
 
