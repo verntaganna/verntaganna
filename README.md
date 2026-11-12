@@ -6,9 +6,9 @@ Artist and cybersecurity student attending Coastline college, who builds and run
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Home-Server](https://github.com/vernalynt/Home-Server) | Private home server (Immich, Nextcloud) over Tailscale, plus a careful Docker backup script that validates dumps and refuses the wrong drive | Ubuntu, Docker, Bash, rsync, Tailscale |
-| [Pantrypls](https://github.com/vernalynt/pantrypls) | Self-hosted pantry and fridge tracker with expiry warnings and NFC tag links | Flask, SQLite, Docker, automated tests |
-| [ADHDpls](https://github.com/vernalynt/adhdpls) | Self-hosted ADHD dashboard: notes, checklists, reminders, phone screenshots pulled in from Immich | Flask, SQLite, Docker, Immich API |
+| [Home-Server](https://github.com/verntaganna/Home-Server) | Private home server (Immich, Nextcloud) over Tailscale, plus a careful Docker backup script that validates dumps and refuses the wrong drive | Ubuntu, Docker, Bash, rsync, Tailscale |
+| [Pantrypls](https://github.com/verntaganna/pantrypls) | Self-hosted pantry and fridge tracker with expiry warnings and NFC tag links | Flask, SQLite, Docker, automated tests |
+| [ADHDpls](https://github.com/verntaganna/adhdpls) | Self-hosted ADHD dashboard: notes, checklists, reminders, phone screenshots pulled in from Immich | Flask, SQLite, Docker, Immich API |
 
 ## Skills I practice
 
@@ -20,3 +20,5 @@ Artist and cybersecurity student attending Coastline college, who builds and run
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/vern-taganna-8b4971374/)
+
+[Portfolio site](https://verntaganna.github.io)
