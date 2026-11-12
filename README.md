@@ -9,6 +9,7 @@ Artist and cybersecurity student attending Coastline college, who builds and run
 | [Home-Server](https://github.com/verntaganna/Home-Server) | Private home server (Immich, Nextcloud) over Tailscale, plus a careful Docker backup script that validates dumps and refuses the wrong drive | Ubuntu, Docker, Bash, rsync, Tailscale |
 | [Pantrypls](https://github.com/verntaganna/pantrypls) | Self-hosted pantry and fridge tracker with expiry warnings and NFC tag links | Flask, SQLite, Docker, automated tests |
 | [ADHDpls](https://github.com/verntaganna/adhdpls) | Self-hosted ADHD dashboard: notes, checklists, reminders, phone screenshots pulled in from Immich | Flask, SQLite, Docker, Immich API |
+| [Art Guild](https://github.com/verntaganna/art-guild) *(work in progress)* | Local app for artists: scripted project interview, Quest Board, daily creation log and points. The app has no AI features. | Python, Flask, SQLite, Electron prototype |
 
 ## Skills I practice
 
